@@ -19,16 +19,9 @@ The problem is to identify registered complaint will be disputed by customer or 
 
 ## Infrastructure Required.
 
-1. GCP Compute Engine
+1. AWS Compute Engine
 2. S3 Bucket
 3. Artifact Registry
-
-## Dashboarding
-1. Grafana
-2. Prometheus
-3. Node Exporter
-4. Promtail
-5. Loki
 
 ## How to run?
 
